@@ -77,4 +77,5 @@ body {
 #outputText{
     font-size: 3rem;
     line-height: 4rem;
+    padding: 20px;
 }
